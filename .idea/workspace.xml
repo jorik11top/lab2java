@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2435828-a038-4463-8326-a82dd6d3e864" name="Changes" comment="Added Main.java">
+    <list default="true" id="c2435828-a038-4463-8326-a82dd6d3e864" name="Changes" comment="Added Main.java pre-release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReadingFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadingFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,8 @@
       <workItem from="1676927726057" duration="1785000" />
       <workItem from="1677189753249" duration="177000" />
       <workItem from="1677541427588" duration="6617000" />
-      <workItem from="1677607309148" duration="13673000" />
+      <workItem from="1677607309148" duration="14439000" />
+      <workItem from="1677668212933" duration="1334000" />
     </task>
     <task id="LOCAL-00001" summary="Added Main.java">
       <created>1676903267655</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677622663950</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Main.java pre-release">
+      <created>1677628098097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677628098097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Main.java" />
+    <MESSAGE value="Added Main.java pre-release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Main.java pre-release" />
   </component>
 </project>
